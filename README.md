@@ -1,3 +1,5 @@
+## $h^\ast$-vectors of 4D reflexive polytopes
+
 The file `h_star_vecs` contains a list of the 14373 distinct $h^\ast$-vectors that occur for 4-dimensional reflexive polytopes (of which there are 473800776), and the number of occurrences for each. The data is in text format: a line containing the five coordinates of the $h^\ast$-vector is followed by a line with the respective count. 
 
 This computation was originally carried out to answer a [MathOverflow question](https://mathoverflow.net/questions/503719/how-many-distinct-ehrhart-polynomials-for-reflexive-polytopes) by Frédéric Chapoton, the result is being uploaded for reference. (It was subsequently realized that a similar computation has been previously done by [Volker Braun](https://doi.org/10.1142/9789814412551_0010), unfortunately, their data appears to be unavailable.)
